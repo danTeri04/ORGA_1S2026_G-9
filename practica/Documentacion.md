@@ -1,6 +1,13 @@
-**Lógica Binaria y Combinational**
+# Práctica 1 — Lógica Binaria y Combinational
 
-**LogicCalc**
+**Universidad San Carlos de Guatemala**
+**Facultad de Ingeniería**
+**Ingeniería en Ciencias y Sistemas**
+
+**Curso:** Organización Computacional
+**Práctica:** 1 Lógica Binaria y Combinational
+**Grupo:** G9
+**Fecha:** Junio 2026
 
 **Grupo:**
 
@@ -20,7 +27,7 @@
 
 **Guatemala, 15 de junio de 2026**
 
-**Introducción**
+# Introducción
 
 Los sistemas digitales y organizacion computacional juegan un papel fundamental para el diseño y análisis de sistemas combinacionales. Realizar operaciones lógicas y aritméticas a partir de señales binarias.
 
@@ -28,7 +35,7 @@ La presente práctica de laboratorio tiene el diseño e implemetación un sistem
 
 Adicionalmente el sistema muestra los resultados binarios obtenidos de manera clara mediante displays, para su obtención se usaron compuertas lógicas e integrados permitidos, asimismo el diseño fue desarrollado en la herramienta Proteus para verificación y posteriormente construir su versión física en protoboard.
 
-Objetivos
+# Objetivos
 
 General
 
@@ -40,7 +47,7 @@ Especificos
 - Crear una unida con operaciones logicas AND, OR, NAND Y XNOR, junto con la unidad comparativa correctamente e implementarlo en el sistema.
 - Mostrar datos numéricos y comparados en pantallas de siete segmentos, asegurando una lectura comprensible y operativa.
 
-Funciones Booleanas
+# Funciones Booleanas
 
 Sumador
 
@@ -151,7 +158,7 @@ NAND: F=(AB)′
 
 XNOR: F=AB+A′B′
 
-Mapas de Karnaugh
+# Mapas de Karnaugh
 
 Sumadores
 
@@ -306,7 +313,7 @@ F=S3C4+S4C4
 
 F=C4(S3+S4)
 
-Diagramas de Diseño
+# Diagramas de Diseño
 
 Unidad Aritmética
 
@@ -323,7 +330,7 @@ La unidad de comparación se usa para ver si dos valores binarios son iguales, o
 
 Este módulo recibe señales binarias que llegan desde las entradas. Después, usando compuertas lógicas, evalúa estas señales para activar una salida según el resultado de una comparación. Si el circuito se da cuenta de que el valor de A es menor que el de B, se activa una señal que indica esa condición.
 
-Material Utilizado
+# Material Utilizado
 
 | **Material**                                 | **Contidad** |
 | -------------------------------------------- | ------------ |
@@ -347,7 +354,7 @@ Material Utilizado
 | Alambre para protoboard 22 AWG (Color negro) | 3mts         |
 | Resistencias de 1k                           | 30           |
 
-Presupuesto
+# Presupuesto
 
 | **Presupuesto Practica #1 Grupo 9** | | | |
 | --- | | | | --- | --- | --- |
@@ -371,7 +378,7 @@ Presupuesto
 | 30 | Resistencias de 1k | Q0.50 | Q15.00 |
 | | Total | | Q1,071.00 |
 
-Roles de Equipo
+# Roles de Equipo
 
 | **Fabián Dario Godoy Ruiz**         | Simulación en Proteus, Montaje en Fisico, Compra de Componentes, Documentación, Presupuesto, Mapas Karnaugh y funciones booleanas. |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -382,13 +389,13 @@ Roles de Equipo
 | **Daniel José Camposeco Recinos**   | Simulación en Proteus, Montaje en Fisico, Compra de Componentes, Documentación, Presupuesto, Mapas Karnaugh y funciones booleanas. |
 | **Dante Alceo Rivera del Cid**      | Simulación en Proteus, Montaje en Fisico, Compra de Componentes, Documentación, Presupuesto, Mapas Karnaugh y funciones booleanas. |
 
-Conclusiones
+# Conclusiones
 
 - Se realizo la unidad aritmética de forma efectiva las operaciones aritméticas para realizar operaciones básicas como suma, resta, multiplicación y potencia entre binarios. Así mismo se integró una unidad lógica de operaciones AND, OR, NAND Y XNOR.
 - Se mostraron los resultados aritméticos y comparativos correctamente en displays, mientras que los resultados logicos se visualizan por medio de leds, garantizando que las unidades aritmética, lógica y comparativa trabajen de manera ordenada y exitosa.
 - La simulación en proteus se consólido en un único archivo funcional y el montaje físico cumplió los requerimientos de ejecutar las operaciones tanto aritméticas, lógicas y comparativa.
 
-Anexos
+# Anexos
 
 <https://github.com/danTeri04/ORGA_1S2026_G9/tree/eae2e09181408d39c834794ad87fb2f30f371bf6/practica>
 
