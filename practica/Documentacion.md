@@ -191,7 +191,6 @@ Mapa para Cout
 
 Co= BC + AC + AB
 
-(imagen)
 
 | A   | B   | C   | A+B | (A+B)C |
 | --- | --- | --- | --- | ------ |
@@ -213,7 +212,6 @@ F= AC + BC
 
 F=C(A+B)
 
-(imagen)
 
 | A   | B   | C   | D   | A+B | (A+B)C | ((A+B)C)+D |
 | --- | --- | --- | --- | --- | ------ | ---------- |
