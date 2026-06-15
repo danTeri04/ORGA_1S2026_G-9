@@ -313,16 +313,16 @@ F=C4(S3+S4)
 
 # Diagramas de Diseño
 
-Unidad Aritmética
+* Unidad Aritmética
 
 La unidad aritmética se encarga de las operaciones numéricas con valores binarios. En este módulo se introducen dos números binarios, que se denominan A y B, y el circuito procesa estos datos para obtener resultados como sumas, restas, multiplicaciones y potencias.  
 <br/>Para realizar la suma se usan sumadores binarios, en los cuales cada bit se combina con otro bit y con un posible acarreo de entrada. El resultado da una salida de suma. Para la resta se opera utilizando lógica combinacional y circuitos integrados que posibilitan la representación de la operación entre los bits de entrada.
 
-Unidad Lógica
+* Unidad Lógica
 
 La unidad lógica se encarga de hacer operaciones booleanas con los bits de entrada: AND, OR, NAND y XNOR. Cada una de estas operaciones compara las entradas A y B bit a bit. Si el AND solo da un 1 cuando los dos valores son 1, el OR da 1 si al menos uno de los valores es 1, el NAND es lo contrario del AND, y el XNOR da 1 si los dos valores son iguales.
 
-Unidad Comparativa
+* Unidad Comparativa
 
 La unidad de comparación se usa para ver si dos valores binarios son iguales, o si uno es menor que el otro. El sistema puede mostrar símbolos en los displays utilizando los segmentos correspondientes del display de siete segmentos.
 
