@@ -356,27 +356,28 @@ Este módulo recibe señales binarias que llegan desde las entradas. Después, u
 
 # Presupuesto
 
-| **Presupuesto Practica #1 Grupo 9** | | | |
-| --- | | | | --- | --- | --- |
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Presupuesto Practica #1 Grupo 9** |     |     |     |
 | **Cantidad** | **Producto** | **Precio Unitario** | **Costo Total** |
-| 10 | 74LS157 | Q9.00 | Q90.00 |
-| 15 | 74LS93 | Q10.80 | Q162.00 |
-| 16 | Resistencia de 10k 1/4W | Q0.50 | Q8.00 |
-| 14 | Resistencia de 330 Ohm 1/4W | Q0.50 | Q7.00 |
-| 16 | Resistencia de 220 Ohm 1/4W | Q0.50 | Q8.00 |
-| 6 | 74LS08 AND | Q7.00 | Q42.00 |
-| 2 | 74LS47 | Q12.00 | Q24.00 |
-| 10 | Protoboard | Q45.00 | Q450.00 |
-| 10 | Dip Switch de 4 posiciones | Q4.00 | Q40.00 |
-| 8 | Compuertas And | Q7.00 | Q56.00 |
-| 3 | Compuertas Or | Q8.00 | Q24.00 |
-| 3 | Compuertas NOT | Q7.00 | Q21.00 |
-| 1 | 74LS86 | Q10.00 | Q10.00 |
-| 7 | 74LS83 | Q12.00 | Q84.00 |
-| 2 | 74LS47 | Q10.00 | Q20.00 |
-| 2 | Display de 7 segmentos de ánodo común | Q5.00 | Q10.00 |
-| 30 | Resistencias de 1k | Q0.50 | Q15.00 |
-| | Total | | Q1,071.00 |
+| 10  | 74LS157 | Q9.00 | Q90.00 |
+| 15  | 74LS93 | Q10.80 | Q162.00 |
+| 16  | Resistencia de 10k 1/4W | Q0.50 | Q8.00 |
+| 14  | Resistencia de 330 Ohm 1/4W | Q0.50 | Q7.00 |
+| 16  | Resistencia de 220 Ohm 1/4W | Q0.50 | Q8.00 |
+| 6   | 74LS08 AND | Q7.00 | Q42.00 |
+| 2   | 74LS47 | Q12.00 | Q24.00 |
+| 10  | Protoboard | Q45.00 | Q450.00 |
+| 10  | Dip Switch de 4 posiciones | Q4.00 | Q40.00 |
+| 8   | Compuertas And | Q7.00 | Q56.00 |
+| 3   | Compuertas Or | Q8.00 | Q24.00 |
+| 3   | Compuertas NOT | Q7.00 | Q21.00 |
+| 1   | 74LS86 | Q10.00 | Q10.00 |
+| 7   | 74LS83 | Q12.00 | Q84.00 |
+| 2   | 74LS47 | Q10.00 | Q20.00 |
+| 2   | Display de 7 segmentos de ánodo común | Q5.00 | Q10.00 |
+| 30  | Resistencias de 1k | Q0.50 | Q15.00 |
+|     | Total |     | Q1,071.00 |
 
 # Roles de Equipo
 
