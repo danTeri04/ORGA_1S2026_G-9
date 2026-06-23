@@ -1,4 +1,6 @@
-# ORGA_1S2026_G-9
+# LABORGA_1S2026_G9-Proyecto
+
+Repositorio correspondiente para el Proyecto del grupo 9 de laboratorio de Organización Computacional
 
 ## Integrantes
 
