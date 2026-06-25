@@ -46,7 +46,13 @@ Universidad San Carlos de Guatemala Facultad de Ingeniería Ingeniería en Cienc
 
 # Introducción
 
-
+En los hogares convencionales, el control de iluminación y dispositivos eléctricos se realiza de forma 
+manual e independiente, limitando la eficiencia energética y la comodidad. El sistema Smart Home GT 
+soluciona esto mediante una maqueta funcional que integra control centralizado de luces, ventilación 
+y puertas desde una interfaz remota, usando un microcontrolador Arduino, memoria EEPROM, 
+comunicación Bluetooth y dispositivos como LEDs, motores y pantalla LCD. El proyecto permite aplicar 
+de forma práctica conceptos de electrónica digital, programación de microcontroladores y sistemas 
+embebidos.
 
 # Descripción del Problema
 
